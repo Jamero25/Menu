@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Pastas",
+    "description":"http://elgranchef.imujer.com/sites/elgranchef.imujer.com/files/Comida-tipica-de-china-01.jpg"
+  },
+  {
+    "id":2,
+    "name":"Carnes",
+    "description":"http://www.viajejet.com/wp-content/viajes/Kn%C3%B6deln.jpg"
+  },
+  {
+    "id":3,
+    "name":"Pollos",
+    "description":"http://3.bp.blogspot.com/-IeckSBCU1Jo/USjR9jXwW5I/AAAAAAAAAAg/gDmYRlpbHw4/s1600/p1.jpg"
+  },
+  {
+    "id":4,
+    "name":"Pescados",
+    "description":"http://s3.amazonaws.com/videos_mxm/caretas/recetas-gourmet-pescado-fletan-sobre-patatas_35430_1_9681.jpg"
+  }
+]

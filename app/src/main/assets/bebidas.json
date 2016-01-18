@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Jugos",
+    "description":"http://jugosnaturalesparaadelgazar.com/wp-content/uploads/2014/02/jugos-naturales-para-adelgazar.jpg"
+  },
+  {
+    "id":2,
+    "name":"Vinos",
+    "description":"https://www.cityexpress.com/blog/wp-content/uploads/2013/07/vino-es.tendencias.yahoo_.com-.jpg"
+  },
+  {
+    "id":3,
+    "name":"Cocteles",
+    "description":"http://www.bedri.es/Comer_y_beber/Cocteles_y_bebidas_combinadas/Imagenes/Varios/Coctel_003.jpg"
+  },
+  {
+    "id":4,
+    "name":"Licores",
+    "description":"http://multimedia.ecuavisa.com/sites/ecuavisa.com/files/fotos/2014/01/23/licores.jpg"
+  }
+]

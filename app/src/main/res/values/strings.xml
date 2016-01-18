@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Interactive Menú</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_name">Menú interactivo</string>
+    <string name="title_activity_acceder">AccederActivity</string>
+    <string name="title_activity_content_fragment">ContentFragment</string>
+    <string name="tab_stream">Entradas</string>
+    <string name="tab_messages">Principales</string>
+    <string name="tab_notifications">Postres</string>
+    <string name="tab_photos">Bebidas</string>
+    <string name="title_activity_tab1_fragment">Tab1Fragment</string>
+    <string name="title_activity_tab2_fragment">Tab2Fragment</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="croquettes">Croquetas</string>
+    <string name="error_json">No se pudo obtener los datos</string>
+</resources>
